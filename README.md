@@ -1,6 +1,6 @@
 # Vietnam Stock Market Analysis & Prediction System
 
-**Author: Nguyen Thai Son - 23010196**
+**Author: Nguyen Thai Son - **
 
 ## Overview
 
@@ -325,6 +325,4 @@ SonSonStock/
 
 ## Contributing & Support
 
-- Author: **Nguyen Thai Son**
-- For issues and contributions: Please create an issue or contact directly
 
