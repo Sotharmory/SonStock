@@ -12,7 +12,6 @@ from src.models.optimized_short_term_model import OptimizedShortTermModel
 from src.visualization.plot_results import plot_comprehensive_results
 from src.visualization.stock_dashboard import launch_dashboard
 from config.settings import DEFAULT_SYMBOLS
-
 def main():
     print("Vietnam Stock Market Analysis & Prediction System")
     print("=" * 60)
